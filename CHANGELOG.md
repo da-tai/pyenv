@@ -622,4 +622,4 @@
 
 #### 0.1.0 (August 31, 2012)
 
-* Initial public release.
+* Initial private release.
